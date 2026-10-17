@@ -1,0 +1,18 @@
+[subject:Überweisungsbestätigung - {site}]
+
+Hallo,
+
+Sie haben eine Überweisung an einen anderen Benutzer angefordert.
+
+	Empfänger: <a href="{to_url}">{to_name}</a>
+
+	Überweisungsbetrag: {amount}
+
+	Kommentar: {description}
+
+Um die Überweisung zu bestätigen, folgen Sie bitte diesem Link:
+<a href="{confirm_url}">{confirm_url}</a>
+
+--
+ Mit freundlichen Grüßen, {site}
+ <small>Diese Nachricht wurde automatisch versendet. Bitte antworten Sie nicht darauf.</small>

@@ -1,0 +1,17 @@
+[subject:Ihre Freigabe ist erforderlich - {site}]
+
+Hallo, {moderator}.
+
+{moderation_text}::
+
+Titel: {page_title}
+URL: <a href="{page_url}">{page_url}</a>
+
+Autor: <a href="{author_url}">{author}</a>
+Datum: {date}
+
+Sie müssen angemeldet sein, um diese Seite anzusehen.
+
+--
+ Mit freundlichen Grüßen, {site}
+ <small>Diese E-Mail wurde automatisch versendet. Bitte antworten Sie nicht darauf.</small>

@@ -1,0 +1,34 @@
+<?php
+
+define('LANG_TAGS_CONTROLLER', 'Schlagwörter');
+define('LANG_TAGS_TAG', 'Schlagwort');
+define('LANG_TAGS_TAG_DESC', 'Beschreibung des Schlagworts');
+define('LANG_TAGS_ROOT_OPTIONS', 'Einstellungen der Schlagwort-Startseite');
+define('LANG_TAGS_TAG_FREQUENCY', 'Häufigkeit');
+define('LANG_TAGS_SEARCH_BY_TAG', 'Suche nach Schlagwort «%s»');
+define('LANG_TAGS_SEARCH_NO_RESULTS', 'Keine Ergebnisse gefunden');
+define('LANG_TAGS_TAG_DELETE_CONFIRM', 'Schlagwort «{tag}» löschen?');
+define('LANG_TAGS_TAGS_DELETE_CONFIRM', 'Ausgewählte Schlagwörter löschen?');
+define('LANG_TAGS_MERGED', 'Schlagwort «%s» wurde mit «%s» zusammengeführt');
+define('LANG_TAGS_SETTINGS', 'Schlagwörter konfigurieren');
+define('LANG_TAGS_RECOUNT', 'Schlagwörter neu zählen');
+define('LANG_TAGS_CONTEXT_LT_SEARCH', 'Bei der Suche nach Schlagwörtern');
+define('LANG_TAGS_SEO_HINT', 'Sie können die Ausdrücke {tag} für das aktuelle Schlagwort und {ctype_title} für den Namen des aktuellen Inhaltstyps verwenden');
+define('LANG_TAGS_LEN_ERROR', 'Das Schlagwort <b>%s</b> ist zu lang. Die maximale Länge eines Schlagworts beträgt %s Zeichen');
+define('LANG_WD_TAGS_CLOUD_ORDERING', 'Schlagwörter sortieren');
+define('LANG_WD_TAGS_CLOUD_ORDER_BY_TAG', 'Alphabetisch');
+define('LANG_WD_TAGS_CLOUD_ORDER_BY_FREQ', 'Nach Verwendungshäufigkeit');
+define('LANG_WD_TAGS_CLOUD_STYLE', 'Darstellung');
+define('LANG_WD_TAGS_CLOUD_STYLE_CLOUD', 'Wolke');
+define('LANG_WD_TAGS_CLOUD_STYLE_LIST', 'Liste');
+define('LANG_WD_TAGS_CLOUD_MAX_FS', 'Maximale Schriftgröße in der Wolke (px)');
+define('LANG_WD_TAGS_CLOUD_MIN_FS', 'Minimale Schriftgröße in der Wolke (px)');
+define('LANG_WD_TAGS_CLOUD_LIMIT', 'Anzahl der Schlagwörter');
+define('LANG_WD_TAGS_SUBJECTS', 'Schlagwörter anzeigen');
+define('LANG_WD_TAGS_MIN_FREQ', 'Minimale Häufigkeit des Schlagworts');
+define('LANG_WD_TAGS_MIN_LEN', 'Mindestlänge des Schlagworts');
+define('LANG_WD_TAGS_MIN_LEN_UNITS', 'Zeichen');
+define('LANG_WD_TAGS_COLORS', 'Verfügbare Farben für Schlagwörter');
+define('LANG_WD_TAGS_COLORS_HINT', 'Farbwerte im Format #RRGGBB durch Kommas getrennt eingeben (ohne Leerzeichen). Wenn nicht angegeben, haben alle Schlagwörter dieselbe Farbe.');
+define('LANG_WD_TAGS_SHUFFLE', 'Schlagwörter mischen');
+define('LANG_TAGS_TAG_EDIT', 'Schlagwort bearbeiten');

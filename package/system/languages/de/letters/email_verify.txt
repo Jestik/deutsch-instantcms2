@@ -1,0 +1,17 @@
+[subject:Bestätigung der Änderung der E-Mail-Adresse - {site}]
+
+Hallo {nickname}.
+
+Um die neue E-Mail-Adresse zu bestätigen, folgen Sie diesem Link:
+
+<a href="{page_url}">{page_url}</a>
+
+Oder geben Sie den Bestätigungscode ein: {hash}
+
+Die Bestätigung muss vor dem {valid_until} erfolgen.
+
+Danach wird Ihre Anfrage zur Änderung der E-Mail-Adresse storniert.
+
+--
+ Mit freundlichen Grüßen, {site}
+ <small>Diese E-Mail wurde automatisch versendet. Bitte antworten Sie nicht darauf.</small>

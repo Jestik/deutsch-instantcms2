@@ -1,0 +1,15 @@
+[subject:Beitrag zur Überarbeitung zurückgesendet - {site}]
+
+Hallo, {nickname}.
+
+Der Moderator hat die Veröffentlichung abgelehnt und den Beitrag zur Überarbeitung zurückgesendet.
+
+<b>Titel:</b> {page_title}
+<b>URL:</b> <a href="{page_url}">{page_url}</a>
+
+<b>Anmerkungen:</b>
+{reason}
+
+--
+ Mit freundlichen Grüßen, {site}
+ <small>Diese E-Mail wurde automatisch versendet. Bitte antworten Sie nicht darauf.</small>

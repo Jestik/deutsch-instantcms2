@@ -1,0 +1,13 @@
+[subject:Ihr Kommentar wurde abgelehnt - {site}]
+
+Hallo, {nickname}.
+
+Ein Moderator hat Ihren Kommentar abgelehnt.
+
+Kommentierter Beitrag: {page_title}
+
+Begründung: {reason}
+
+--
+ Mit freundlichen Grüßen, {site}
+ <small>Diese E-Mail wurde automatisch versendet. Bitte antworten Sie nicht darauf.</small>

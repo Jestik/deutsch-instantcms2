@@ -1,0 +1,11 @@
+[subject:Neue Abonnementliste ohne Titel - {site}]
+
+Hallo.
+
+Aus unbekanntem Grund wurde eine Abonnementliste ohne automatisch erzeugten Titel erstellt.
+Öffnen Sie <a href="{admin_slist_url}">diesen Link</a> und geben Sie einen Titel für die Liste ein.
+Sie müssen als Administrator angemeldet sein.
+
+--
+ Mit freundlichen Grüßen, {site}
+ <small>Diese E-Mail wurde automatisch versendet. Bitte antworten Sie nicht darauf.</small>

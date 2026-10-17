@@ -1,0 +1,14 @@
+[subject:Ihr Abonnement läuft bald ab - {site}]
+
+Hallo,
+
+Ihr Abonnement des Tarifs "{plan}" läuft in {days} ab.
+
+Ablaufdatum des Abonnements: {date_until}
+
+Sie können Ihr Abonnement im Bereich "Guthaben" Ihres persönlichen Kontos verlängern:
+<a href="{plan_url}">{plan_url}</a>
+
+--
+ Mit freundlichen Grüßen, {site}
+ <small>Diese Nachricht wurde automatisch versendet. Bitte antworten Sie nicht darauf.</small>

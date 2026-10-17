@@ -1,0 +1,10 @@
+[subject:Anfrage von {user_nickname} abgelehnt - {site}]
+
+Hallo.
+
+Ihre Anfrage zum Beitritt zur Gruppe <a href="{group_url}">{group_title}</a> wurde vom Administrator <a href="{user_url}">{user_nickname}</a> abgelehnt.
+
+
+--
+ Mit freundlichen Grüßen, {site}
+ <small>Diese E-Mail wurde automatisch versendet. Bitte antworten Sie nicht darauf.</small>

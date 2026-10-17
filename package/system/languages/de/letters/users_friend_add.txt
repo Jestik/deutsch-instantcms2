@@ -1,0 +1,11 @@
+[subject:{friend_nickname} möchte mit Ihnen befreundet sein - {site}]
+
+Hallo.
+
+<a href="{friend_url}">{friend_nickname}</a> lädt Sie ein, eine Freundschaft zu schließen.
+
+Um die Anfrage anzunehmen oder abzulehnen, melden Sie sich bitte auf der Website an.
+
+--
+ Mit freundlichen Grüßen, {site}
+ <small>Diese E-Mail wurde automatisch versendet. Bitte antworten Sie nicht darauf.</small>

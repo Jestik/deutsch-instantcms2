@@ -1,0 +1,15 @@
+[subject:Neuer Eintrag auf Ihrer Pinnwand - {site}]
+
+Hallo, {nickname}.
+
+Auf Ihrer <a href="{profile_url}">Profilseite</a> gibt es einen neuen Pinnwandeintrag.
+
+<a href="{author_url}">{author_nickname}</a> schrieb:
+<blockquote>{content}</blockquote>
+
+Um auf diesen Eintrag zu antworten, folgen Sie diesem Link:
+<a href="{profile_url}">{profile_url}</a>
+
+--
+ Mit freundlichen Grüßen, {site}
+ <small>Diese E-Mail wurde automatisch versendet. Bitte antworten Sie nicht darauf.</small>

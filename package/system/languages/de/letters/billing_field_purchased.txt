@@ -1,0 +1,12 @@
+[subject:Neuer Kauf - {site}]
+
+Hallo,
+
+Der Benutzer <a href="{buyer_url}">{buyer_name}</a> hat einen Kauf getätigt.
+
+Kaufdatum: {date}
+Seite: <a href="{item_url}">{item_title}</a>
+
+--
+ Mit freundlichen Grüßen, {site}
+ <small>Diese Nachricht wurde automatisch versendet. Bitte antworten Sie nicht darauf.</small>

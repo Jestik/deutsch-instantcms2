@@ -1,0 +1,26 @@
+<?php
+define('LANG_MARKITUP_BTN', 'Symbolleistenschaltflächen');
+define('LANG_MARKITUP_THEME_SKIN', 'Designvorlage');
+define('LANG_MARKITUP_B', 'Fett');
+define('LANG_MARKITUP_I', 'Kursiv');
+define('LANG_MARKITUP_U', 'Unterstrichen');
+define('LANG_MARKITUP_S', 'Durchgestrichen');
+define('LANG_MARKITUP_UL', 'Aufzählungsliste');
+define('LANG_MARKITUP_OL', 'Nummerierte Liste');
+define('LANG_MARKITUP_BC', 'Zitat');
+define('LANG_MARKITUP_BC_HINT', 'Zitattext');
+define('LANG_MARKITUP_L', 'Link');
+define('LANG_MARKITUP_L1', 'Linkadresse');
+define('LANG_MARKITUP_L2', 'Linktitel...');
+define('LANG_MARKITUP_IMGL', 'Bild aus dem Internet');
+define('LANG_MARKITUP_IMGL1', 'Bildadresse');
+define('LANG_MARKITUP_IMG', 'Bild vom Computer');
+define('LANG_MARKITUP_YT', 'YouTube-Video');
+define('LANG_MARKITUP_YT1', 'YouTube-Videolink');
+define('LANG_MARKITUP_FB', 'Facebook-Video');
+define('LANG_MARKITUP_FB1', 'Facebook-Videolink');
+define('LANG_MARKITUP_CODE', 'Code');
+define('LANG_MARKITUP_CODE1', 'Sprache');
+define('LANG_MARKITUP_SP', 'Spoiler');
+define('LANG_MARKITUP_SP1', 'Spoilertitel');
+define('LANG_MARKITUP_SM', 'Smileys');

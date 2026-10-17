@@ -1,0 +1,15 @@
+[subject:Neuer Kommentar - {site}]
+
+Hallo, {nickname}.
+
+Auf der Seite "<a href="{page_url}">{page_title}</a>" wurde ein neuer Kommentar veröffentlicht:
+
+<a href="{author_url}">{author_nickname}</a>:
+<blockquote>{comment}</blockquote>
+
+Um auf diesen Kommentar zu antworten, folgen Sie diesem Link:
+<a href="{page_url}">{page_url}</a>
+
+--
+ Mit freundlichen Grüßen, {site}
+ <small>Diese E-Mail wurde automatisch versendet. Bitte antworten Sie nicht darauf.</small>

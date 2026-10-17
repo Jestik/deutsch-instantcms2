@@ -1,0 +1,33 @@
+<?php
+
+define('LANG_DEFAULT_THEME_BG', 'Seitenhintergrund');
+define('LANG_DEFAULT_THEME_BG_IMAGE', 'Hintergrundbild');
+define('LANG_DEFAULT_THEME_BG_IMAGE_HINT', 'Alle weiteren Einstellungen werden wirksam, sobald ein Bild hochgeladen wurde');
+define('LANG_DEFAULT_THEME_BG_COLOR', 'Hintergrundfarbe');
+define('LANG_DEFAULT_THEME_BG_REPEAT', 'Hintergrundbild wiederholen');
+define('LANG_DEFAULT_THEME_BG_REPEAT_X', 'Horizontal wiederholen');
+define('LANG_DEFAULT_THEME_BG_REPEAT_Y', 'Vertikal wiederholen');
+define('LANG_DEFAULT_THEME_BG_REPEAT_NO', 'Nicht wiederholen');
+define('LANG_DEFAULT_THEME_BG_REPEAT_XY', 'Wiederholen');
+define('LANG_DEFAULT_THEME_BG_POS', 'Position des Hintergrundbilds');
+define('LANG_DEFAULT_THEME_BG_POS_X', 'Horizontal');
+define('LANG_DEFAULT_THEME_BG_POS_X_LEFT', 'Links');
+define('LANG_DEFAULT_THEME_BG_POS_X_CENTER', 'Zentriert');
+define('LANG_DEFAULT_THEME_BG_POS_X_RIGHT', 'Rechts');
+define('LANG_DEFAULT_THEME_BG_POS_Y', 'Vertikal');
+define('LANG_DEFAULT_THEME_BG_POS_Y_TOP', 'Oben');
+define('LANG_DEFAULT_THEME_BG_POS_Y_CENTER', 'Zentriert');
+define('LANG_DEFAULT_THEME_BG_POS_Y_BOTTOM', 'Unten');
+define('LANG_DEFAULT_THEME_TOP_MARGIN', 'Oberer Seitenabstand');
+define('LANG_DEFAULT_THEME_LAYOUT', 'Seitenlayout');
+define('LANG_DEFAULT_THEME_LAYOUT_LEFT', 'Links');
+define('LANG_DEFAULT_THEME_LAYOUT_RIGHT', 'Rechts');
+define('LANG_DEFAULT_THEME_LAYOUT_COLUMNS', 'Spalten');
+define('LANG_DEFAULT_THEME_LAYOUT_SIDEBAR_POS', 'Position der Seitenleiste');
+define('LANG_DEFAULT_THEME_COPYRIGHT', 'Copyright');
+define('LANG_DEFAULT_THEME_COPYRIGHT_URL', 'Copyright-Link');
+define('LANG_DEFAULT_THEME_COPYRIGHT_URL_HINT', 'Standardmäßig die Startseite');
+define('LANG_DEFAULT_THEME_COPYRIGHT_YEAR', 'Copyright-Jahr');
+define('LANG_DEFAULT_THEME_COPYRIGHT_YEAR_HINT', 'Standardmäßig das aktuelle Jahr');
+define('LANG_DEFAULT_THEME_DISABLE_HELP_ANIM', 'Animation der Schaltfläche "Hilfe" deaktivieren');
+define('LANG_DEFAULT_THEME_LAYOUT_MAIN', 'Grundlayout');

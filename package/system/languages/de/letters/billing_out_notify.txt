@@ -1,0 +1,21 @@
+[subject:Neue Auszahlungsanfrage - {site}]
+
+Hallo,
+
+Eine neue Auszahlungsanfrage wurde erstellt.
+
+Benutzer: <a href="{user_url}">{user_name}</a>
+Auszahlungsbetrag: {amount}
+Auszahlungsbetrag nach Gebühren: {summ}
+Auszahlungsmethode: {system}
+Kontonummer: {purse}
+
+Um die Anfrage nach der Überweisung abzuschließen, folgen Sie bitte diesem Link:
+<a href="{done_url}">{done_url}</a>
+Sie müssen als Administrator angemeldet sein.
+
+Sie können diese Anfrage auch im Abrechnungsbereich der Website ansehen und abschließen.
+
+--
+ Mit freundlichen Grüßen, {site}
+ <small>Diese Nachricht wurde automatisch versendet. Bitte antworten Sie nicht darauf.</small>

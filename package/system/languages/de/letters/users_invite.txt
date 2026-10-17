@@ -1,0 +1,17 @@
+[subject:{nickname} lädt Sie ein - {site}]
+
+Hallo.
+
+Der Benutzer {nickname} lädt Sie ein, sich auf der Website {site} zu registrieren.
+
+<blockquote>Einladungscode: {code}</blockquote>
+
+Link zur Registrierungsseite:
+
+<a href="{page_url}">{page_url}</a>
+
+Wenn Sie kein Interesse haben, ignorieren Sie diese E-Mail einfach.
+
+--
+ Mit freundlichen Grüßen, {site}
+ <small>Diese E-Mail wurde automatisch versendet. Bitte antworten Sie nicht darauf.</small>

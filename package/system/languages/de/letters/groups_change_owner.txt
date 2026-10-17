@@ -1,0 +1,12 @@
+[subject:Inhaberwechsel der Gruppe {group_title} - {site}]
+
+Hallo!
+
+Der Inhaber der Gruppe <a href="{group_url}">{group_title}</a> wurde geändert.
+
+Profil des bisherigen Inhabers: {old_profile_link}
+Profil des neuen Inhabers: {new_profile_link}
+
+--
+ Mit freundlichen Grüßen, {site}
+ <small>Diese E-Mail wurde automatisch versendet. Bitte antworten Sie nicht darauf.</small>

@@ -1,0 +1,19 @@
+[subject:Registrierung bestätigen - {site}]
+
+Hallo, {nickname}.
+
+Um Ihre Registrierung zu bestätigen, folgen Sie diesem Link:
+
+<a href="{page_url}">{page_url}</a>
+
+Oder verwenden Sie den Bestätigungscode: {pass_token}
+
+Die Bestätigung muss bis zum {valid_until} erfolgen.
+
+Danach wird Ihre Registrierung storniert.
+
+Falls diese E-Mail Sie irrtümlich erreicht hat, ignorieren Sie sie bitte.
+
+--
+ Mit freundlichen Grüßen, {site}
+ <small>Diese E-Mail wurde automatisch versendet. Bitte antworten Sie nicht darauf.</small>

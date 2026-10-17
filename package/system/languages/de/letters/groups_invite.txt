@@ -1,0 +1,10 @@
+[subject:{user_nickname} lädt Sie ein - {site}]
+
+Hallo.
+
+<a href="{user_url}">{user_nickname}</a> lädt Sie ein, der Gruppe <a href="{group_url}">{group_title}</a> beizutreten.
+
+
+--
+ Mit freundlichen Grüßen, {site}
+ <small>Diese E-Mail wurde automatisch versendet. Bitte antworten Sie nicht darauf.</small>

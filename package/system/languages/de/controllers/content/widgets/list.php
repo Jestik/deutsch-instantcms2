@@ -1,0 +1,30 @@
+<?php
+
+define('LANG_WD_CONTENT_LIST_DATASET', 'Filter aus einem Datensatz anwenden');
+define('LANG_WD_CONTENT_LIST_RELATION', 'Filter nach Verknüpfung anwenden');
+define('LANG_WD_CONTENT_LIST_FILTER', 'Allgemeinen Filter anwenden');
+define('LANG_WD_CONTENT_LIST_FILTER_HOOK', 'Hook anwenden');
+define('LANG_WD_CONTENT_LIST_FILTER_HOOK_HINT', 'Für erfahrene Benutzer! Geben Sie den vollständigen Hook-Namen ein. An den Hook werden <b>[$ctype, $model]</b> übergeben');
+define('LANG_WD_CONTENT_LIST_IMAGE', 'Bildfeld');
+define('LANG_WD_CONTENT_LIST_TEASER', 'Kurzbeschreibungsfeld');
+define('LANG_WD_CONTENT_LIST_FIELD_HINT', 'Veraltete Optionen zur Abwärtskompatibilität');
+define('LANG_WD_CONTENT_LIST_FIELDS_HINT', 'Markieren Sie die Felder, die im Widget angezeigt werden sollen. Wenn ein Feld zusätzliche Optionen hat, erscheinen diese darunter.');
+define('LANG_WD_CONTENT_LIST_DETAILS', 'Autor, Datum und Anzahl der Kommentare anzeigen');
+define('LANG_WD_CONTENT_LIST_STYLE_BASIC', 'Standard');
+define('LANG_WD_CONTENT_LIST_STYLE_FEATURED', 'Magazin');
+define('LANG_WD_CONTENT_LIST_STYLE_TILES_BIG', 'Große Kacheln');
+define('LANG_WD_CONTENT_LIST_STYLE_ALBUMS', 'Fotoalben');
+define('LANG_WD_CONTENT_LIST_STYLE_TILES_SMALL', 'Kleine Kacheln');
+define('LANG_WD_CONTENT_LIST_STYLE_COMPACT', 'Kompakt');
+define('LANG_WD_CONTENT_LIST_STYLE_CUSTOM', 'Vorlage aus dem Register "Design"');
+define('LANG_WD_CONTENT_WIDGET_TYPE', 'Widget-Modus');
+define('LANG_WD_CONTENT_WIDGET_TYPE1', 'Normale Liste anzeigen');
+define('LANG_WD_CONTENT_WIDGET_TYPE2', 'Ähnliche Einträge anzeigen');
+define('LANG_WD_CONTENT_WIDGET_TYPE3', 'Zufällige Einträge anzeigen');
+define('LANG_WD_CONTENT_RELATED_TYPE', 'Ähnlichkeit bestimmen nach');
+define('LANG_WD_CONTENT_RELATED_TYPE1', 'Titel');
+define('LANG_WD_CONTENT_RELATED_TYPE2', 'Tags, falls vorhanden, andernfalls aktuelle Kategorie');
+define('LANG_WD_CONTENT_RELATED_TYPE3', 'Kategorien');
+define('LANG_WD_CONTENT_DEPRECATED', 'Veraltete Optionen');
+define('LANG_WD_CONTENT_AUTO_USER', 'Nur Einträge des Autors anzeigen');
+define('LANG_WD_CONTENT_AUTO_USER_HINT', 'Wenn das Widget auf Eintragsseiten oder Benutzerprofilen angezeigt wird.');

@@ -1,0 +1,15 @@
+[subject:Abonnement bestätigen - {site}]
+
+Hallo, {nickname}.
+
+Um Ihr Abonnement zu bestätigen, folgen Sie diesem Link:
+
+<a href="{page_url}">{page_url}</a>
+
+Oder verwenden Sie den Bestätigungscode: {confirm_token}
+
+Die Bestätigung muss bis zum {valid_until} erfolgen.
+
+--
+ Mit freundlichen Grüßen, {site}
+ <small>Diese E-Mail wurde automatisch versendet. Bitte antworten Sie nicht darauf.</small>

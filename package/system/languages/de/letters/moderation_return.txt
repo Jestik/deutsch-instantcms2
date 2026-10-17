@@ -1,0 +1,9 @@
+[subject:Beitrag aus der Moderation zurückgezogen - {site}]
+
+Hallo, {moderator}.
+
+Der Autor <a href="{author_url}">{author}</a> hat den Beitrag <a href="{page_url}">{page_title}</a> aus der Moderation zurückgezogen.
+
+--
+ Mit freundlichen Grüßen, {site}
+ <small>Diese E-Mail wurde automatisch versendet. Bitte antworten Sie nicht darauf.</small>

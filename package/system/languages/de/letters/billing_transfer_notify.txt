@@ -1,0 +1,16 @@
+[subject:Überweisung erhalten - {site}]
+
+Hallo,
+
+Sie haben eine Überweisung von einem anderen Benutzer erhalten.
+
+	Absender: <a href="{from_url}">{from_name}</a>
+
+	Überweisungsbetrag: {amount}
+
+	Kommentar: {description}
+
+
+--
+ Mit freundlichen Grüßen, {site}
+ <small>Diese Nachricht wurde automatisch versendet. Bitte antworten Sie nicht darauf.</small>

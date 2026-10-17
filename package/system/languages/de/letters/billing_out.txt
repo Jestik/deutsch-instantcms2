@@ -1,0 +1,17 @@
+[subject:Auszahlungsbestätigung - {site}]
+
+Hallo,
+
+Sie haben eine Auszahlung auf Ihr persönliches Konto angefordert.
+
+Auszahlungsbetrag: {amount}
+Auszahlungsbetrag nach Gebühren: {summ}
+Auszahlungsmethode: {system}
+Kontonummer: {purse}
+
+Um die Anfrage zu bestätigen, folgen Sie bitte diesem Link:
+<a href="{confirm_url}">{confirm_url}</a>
+
+--
+ Mit freundlichen Grüßen, {site}
+ <small>Diese Nachricht wurde automatisch versendet. Bitte antworten Sie nicht darauf.</small>

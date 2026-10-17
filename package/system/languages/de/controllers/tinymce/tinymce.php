@@ -1,0 +1,37 @@
+<?php
+
+define('LANG_TINYMCE_TOOLBAR', 'Schaltflächen des klassischen Editors');
+define('LANG_TINYMCE_QUICKBARS_SELECTION_TOOLBAR', 'Auswahlschaltflächen des Quickbars-Plugins');
+define('LANG_TINYMCE_QUICKBARS_INSERT_TOOLBAR', 'Einfügeschaltflächen des Quickbars-Plugins');
+define('LANG_TINYMCE_PLUGINS', 'Plugins');
+define('LANG_TINYMCE_PLUGINS_HINT', 'Weitere Plugins werden automatisch eingebunden, sobald ihre Schaltflächen zugewiesen werden');
+define('LANG_TINYMCE_SKIN', 'Design');
+define('LANG_TINYMCE_FORCED_ROOT_BLOCK', 'Blockelement');
+define('LANG_TINYMCE_FORCED_ROOT_BLOCK_HINT', 'Standard-Blockelement zum Umschließen von Inline-Elementen und Textknoten.');
+define('LANG_TINYMCE_NEWLINE_BEHAVIOR', 'Verhalten beim Zeilenumbruch');
+define('LANG_TINYMCE_NEWLINE_BEHAVIOR_HINT', 'Mit dieser Option können Sie festlegen, was beim Drücken der Eingabetaste geschieht.');
+define('LANG_TINYMCE_NEWLINE_BEHAVIOR1', 'Fügt mit Enter einen Block (gemäß der Option "Blockelement") und mit Umschalt+Enter ein br-Tag ein');
+define('LANG_TINYMCE_NEWLINE_BEHAVIOR2', 'Fügt in jedem Fall mit Enter einen Block (gemäß der Option "Blockelement") ein');
+define('LANG_TINYMCE_NEWLINE_BEHAVIOR3', 'Fügt in jedem Fall ein br-Tag ein');
+define('LANG_TINYMCE_NEWLINE_BEHAVIOR4', 'Tauscht das Verhalten der Tasten Enter und Umschalt+Enter.');
+define('LANG_TINYMCE_TAG', 'Tag %s');
+define('LANG_TINYMCE_TOOLBAR_DRAWER', 'Überzählige Schaltflächen in der Symbolleiste');
+define('LANG_TINYMCE_TOOLBAR_DRAWER0', 'In die nächste Zeile umbrechen');
+define('LANG_TINYMCE_TOOLBAR_DRAWER1', 'In einem Popup-Menü anzeigen');
+define('LANG_TINYMCE_TOOLBAR_DRAWER2', 'In einer Popup-Zeile anzeigen');
+define('LANG_TINYMCE_TOOLBAR_DRAWER3', 'Bildlaufmodus');
+define('LANG_TINYMCE_TOOLBAR_STICKY', 'Symbolleiste des Editors fixieren');
+define('LANG_TINYMCE_IMAGE_CAPTION', 'Bildunterschriften erlauben');
+define('LANG_TINYMCE_IMAGE_TITLE', 'Eingabe eines Bildtitels erlauben');
+define('LANG_TINYMCE_IMAGE_DESCRIPTION', 'Eingabe einer Bildbeschreibung erlauben');
+define('LANG_TINYMCE_IMAGE_DIMENSIONS', 'Felder für Bildabmessungen anzeigen');
+define('LANG_TINYMCE_IMAGE_ADVTAB', 'Erweiterte Bildeinstellungen');
+define('LANG_TINYMCE_STATUSBAR', 'Statusleiste anzeigen');
+define('LANG_TINYMCE_MIN_HEIGHT', 'Minimale Editorhöhe');
+define('LANG_TINYMCE_MAX_HEIGHT', 'Maximale Editorhöhe');
+define('LANG_TINYMCE_ALLOW_MIME_TYPES', 'Erlaubte Dateitypen für die Gruppe "%s"');
+define('LANG_TINYMCE_BLOCK_FORMATS', 'Verfügbare Formate');
+define('LANG_TINYMCE_P', 'Absatz');
+define('LANG_TINYMCE_SP', 'Spoiler');
+define('LANG_TINYMCE_IMG_PRESET', 'Voreinstellung für hochgeladene Bilder');
+define('LANG_TINYMCE_PLACEHOLDER', 'Platzhaltertext des Editors');

@@ -1,0 +1,26 @@
+<?php
+define('LANG_TYPOGRAPH_CONTROLLER', 'Typograf');
+define('LANG_TYP_PRESETS', 'Typograf-Voreinstellungen');
+define('LANG_TYP_PRESET_TITLE', 'Name der Voreinstellung');
+define('LANG_HELP_URL_COM_TYPOGRAPH', 'https://docs.instantcms.ru/en/manual/components/typograph');
+define('LANG_TYP_PRESET_DELETE_CONFIRM', 'Voreinstellung "{title}" löschen?');
+define('LANG_TYP_ATTR_TAG', 'Attribute für das Tag &lt;%s&gt;');
+define('LANG_TYP_TAG_CALLBACK', 'Tag-Callback');
+define('LANG_TYP_TAG_CALLBACK_HINT', 'Controller und Callback-Methode durch einen senkrechten Strich getrennt eingeben, zum Beispiel typograph|parseYouTubeVideo');
+define('LANG_TYP_ADD_ATTR', 'Attribut hinzufügen');
+define('LANG_TYP_ATTR_TYPE', 'Attributtyp');
+define('LANG_TYP_DOMAINS', 'Domainliste');
+define('LANG_TYP_ARRAY', 'Werteliste');
+define('LANG_TYP_PATH', 'Ressourcenpfad');
+define('LANG_TYP_ATTR_NAME', 'Attributname');
+define('LANG_TYP_ATTR_PARAMS', 'Zulässige Attributwerte, jeweils in einer neuen Zeile.');
+define('LANG_TYP_IS_AUTO_BR', 'Zeilenumbrüche automatisch setzen');
+define('LANG_TYP_IS_AUTO_LINK_MODE', 'Links automatisch erkennen');
+define('LANG_TYP_BUILD_REDIRECT_LINK', 'Externe Links über Weiterleitung öffnen');
+define('LANG_TYP_BUILD_SMILES', 'Smileys in GIF-Bilder umwandeln');
+define('LANG_TYP_BUILD_SMILES_HINT', 'Zum Beispiel :smile: :laugh: :-P :) usw.');
+define('LANG_TYP_IS_PROCESS_CALLBACK', 'Verarbeitung von Tags mit festgelegten Callbacks aktivieren');
+define('LANG_TYP_AUTOREPLACE', 'Automatische Ersetzung');
+define('LANG_TYP_AUTOREPLACE_FROM', 'Zu ersetzender Text');
+define('LANG_TYP_AUTOREPLACE_TO', 'Ersatztext');
+define('LANG_TYP_ALLOWED_TAGS', 'Erlaubte HTML-Tags');

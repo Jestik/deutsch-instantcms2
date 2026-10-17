@@ -1,0 +1,11 @@
+[subject:Aktualisierung Ihrer Abonnementliste „{title}“]
+
+Hallo, {nickname}.
+
+Ihre Abonnementliste „<a href="{list_url}">{title}</a>“ wurde aktualisiert.
+{subjects}
+
+--
+ Mit freundlichen Grüßen, {site}
+ <small>Sie erhalten diese Nachricht, weil Sie die Liste „{title}“ abonniert haben. Wenn Sie solche Nachrichten nicht mehr erhalten möchten, <a href="{unsubscribe_url}">können Sie das Abonnement hier beenden</a>.</small>
+ <small>Diese E-Mail wurde automatisch versendet. Bitte antworten Sie nicht darauf.</small>

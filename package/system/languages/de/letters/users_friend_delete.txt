@@ -1,0 +1,10 @@
+[subject:{friend_nickname} ist nicht mehr mit Ihnen befreundet - {site}]
+
+Hallo.
+
+<a href="{friend_url}">{friend_nickname}</a> hat die Freundschaft mit Ihnen beendet.
+
+
+--
+ Mit freundlichen Grüßen, {site}
+ <small>Diese E-Mail wurde automatisch versendet. Bitte antworten Sie nicht darauf.</small>

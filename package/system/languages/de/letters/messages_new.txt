@@ -1,0 +1,9 @@
+[subject:Neue Nachricht - {site}]
+
+Hallo, {nickname}.
+
+Sie haben auf der Website „{site}“ eine neue private Nachricht von <a href="{user_url}">{user_nickname}</a> erhalten.
+
+--
+ Mit freundlichen Grüßen, {site}
+ <small>Diese E-Mail wurde automatisch versendet. Bitte antworten Sie nicht darauf.</small>

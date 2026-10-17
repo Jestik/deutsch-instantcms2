@@ -1,0 +1,18 @@
+[subject:Passwort wiederherstellen - {site}]
+
+Hallo, {nickname}.
+
+Sie oder eine andere Person haben auf der Website „{site}“ die Wiederherstellung des Passworts gestartet.
+
+Um Ihr Passwort zu ändern, folgen Sie diesem Link:
+<a href="{page_url}">{page_url}</a>
+
+Wenn Sie dies nicht bis zum {valid_until} tun, wird Ihre Wiederherstellungsanfrage gelöscht.
+
+Sie müssen die Änderung bis zum {valid_until} vornehmen.
+
+Falls Sie keine Wiederherstellung des Passworts angefordert haben, ignorieren Sie diese Nachricht bitte.
+
+--
+ Mit freundlichen Grüßen, {site}
+ <small>Diese E-Mail wurde automatisch versendet. Bitte antworten Sie nicht darauf.</small>

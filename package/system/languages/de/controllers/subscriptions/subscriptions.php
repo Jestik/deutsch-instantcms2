@@ -1,0 +1,36 @@
+<?php
+
+define('LANG_SUBSCRIPTIONS_CONTROLLER', 'Abonnements');
+define('LANG_SBSCR_ISSUBSCRIBE', 'Sie haben abonniert');
+define('LANG_SBSCR_GUEST_FORM_TITLE', 'Daten für das Abonnement eingeben');
+define('LANG_SBSCR_GUEST_EMAIL_CONFIRMATION', 'E-Mail-Bestätigung für Gäste anfordern');
+define('LANG_SBSCR_GUEST_EMAIL_CONFIRM_SEND', 'Eine E-Mail zur Bestätigung Ihres Abonnements wurde an Sie gesendet');
+define('LANG_SBSCR_GUEST_IS_EXISTS', 'Diese E-Mail-Adresse hat bereits ein Abonnement');
+define('LANG_SBSCR_NEED_AUTH', 'Abonnements sind nur für registrierte Benutzer verfügbar');
+define('LANG_SBSCR_SHOW_BTN_TITLE', 'Beschriftungen zum Abonnieren und Abbestellen auf der Schaltfläche anzeigen');
+define('LANG_SBSCR_SHOW_BTN_TITLE_HINT', 'Wenn deaktiviert, wird nur ein Symbol angezeigt');
+define('LANG_SBSCR_VERIFY_EXP', 'Gültigkeitsdauer des Bestätigungslinks');
+define('LANG_SBSCR_VERIFY_SUCCESS', 'E-Mail-Adresse und Abonnement bestätigt');
+define('LANG_SBSCR_ADMIN_EMAIL', 'E-Mail-Adressen für Benachrichtigungen über neue Listen ohne Titel (mehrere durch Kommas trennen)');
+define('LANG_SBSCR_QUEUE_NAME', 'Newsletter');
+define('LANG_SBSCR_LIST', 'Abonnementlisten');
+define('LANG_SBSCR_SUBSCRIBERS', 'Abonnenten');
+define('LANG_SBSCR_LIMIT', 'Anzahl der Abonnements pro Seite im Register');
+define('LANG_SBSCR_NOTIFY_NEW', 'Über neue Einträge in Abonnements benachrichtigen');
+define('LANG_SBSCR_DELETE_CONFIRM', 'Diese Liste löschen?\nAlle Abonnenten werden abgemeldet.');
+define('LANG_SBSCR_PM_NOTIFY', 'Aktualisierung in Ihrer Abonnementliste «<a href="%s">%s</a>»<br>%s');
+define('LANG_SBSCR_UNSUBSCRIBE_SUCCESS', 'Sie haben das Abonnement erfolgreich beendet');
+define('LANG_SBSCR_CTYPE_ON', 'Abonnements aktivieren');
+define('LANG_SBSCR_CTYPE_RECURSIVE_CATEGORIES', 'Unterkategorien einbeziehen');
+define('LANG_SBSCR_CTYPE_SHOW_IN_LIST', 'Abonnementschaltfläche in der Liste anzeigen');
+define('LANG_SBSCR_CTYPE_IN_LIST_POS', 'Name der Position für die Schaltfläche');
+define('LANG_SBSCR_CTYPE_IN_LIST_POS_HINT', 'Die Position muss in Ihrer Vorlage mit <b>&lt;?php $this-&gt;block(&#039;before_body&#039;); ?&gt;</b> definiert sein. before_body ist dabei der Positionsname');
+define('LANG_SBSCR_CTYPE_SHOW_IN_FILTER', 'Abonnementschaltfläche im Filter anzeigen');
+define('LANG_SBSCR_NOTIFY_TEXT', 'Vorlage für Website-Benachrichtigungen');
+define('LANG_SBSCR_NOTIFY_TEXT_HINT', 'Wenn nicht angegeben, wird die allgemeine Vorlage verwendet. Beispieltext: <b class="text-danger">'. htmlspecialchars(LANG_SBSCR_PM_NOTIFY).'</b>. %s werden durch die jeweiligen Werte ersetzt.');
+define('LANG_SBSCR_LETTER_TPL', 'E-Mail-Benachrichtigungsvorlage');
+define('LANG_SBSCR_LETTER_TPL_HINT', 'Wenn nicht angegeben, wird die allgemeine Vorlage verwendet. Beispiel: system/languages/ru/letters/subscribe_new_item.txt');
+define('LANG_SBSCR_LIST_TITLE', 'Titel der Abonnementliste');
+define('LANG_SBSCR_LIST_URL', 'URL der Abonnementliste');
+define('LANG_SBSCR_UNSUBSCRIBE_URL', 'Abmelde-URL');
+define('LANG_SBSCR_SUBJECTS_URLS', 'Liste der Links zu neuen Einträgen im Abonnement');

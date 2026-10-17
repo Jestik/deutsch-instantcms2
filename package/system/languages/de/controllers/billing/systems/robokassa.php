@@ -1,0 +1,8 @@
+<?php
+
+define('LANG_BILLING_SYSTEM_ROBOKASSA_ID', 'Shop-ID');
+define('LANG_BILLING_SYSTEM_ROBOKASSA_P1', 'Passwort Nr. 1');
+define('LANG_BILLING_SYSTEM_ROBOKASSA_P2', 'Passwort Nr. 2');
+define('LANG_BILLING_SYSTEM_ROBOKASSA_MODE', 'Betriebsmodus');
+define('LANG_BILLING_SYSTEM_ROBOKASSA_MODE0', 'Produktivmodus');
+define('LANG_BILLING_SYSTEM_ROBOKASSA_MODE1', 'Testmodus');

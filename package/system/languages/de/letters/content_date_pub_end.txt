@@ -1,0 +1,10 @@
+[subject:Veröffentlichungszeitraum endet bald - {site}]
+
+Hallo, {nickname}.
+
+Die Veröffentlichung Ihres Beitrags "<a href="{page_url}">{page_title}</a>" endet am {date_pub_end}.
+
+
+--
+ Mit freundlichen Grüßen, {site}
+ <small>Diese E-Mail wurde automatisch versendet. Bitte antworten Sie nicht darauf.</small>

@@ -1,0 +1,11 @@
+[subject:Ihr Kommentar wurde freigegeben - {site}]
+
+Hallo, {nickname}.
+
+Ein Moderator hat einen Kommentar auf der Seite „{page_title}“ freigegeben.
+
+URL: <a href="{page_url}">{page_url}</a>
+
+--
+ Mit freundlichen Grüßen, {site}
+ <small>Diese E-Mail wurde automatisch versendet. Bitte antworten Sie nicht darauf.</small>

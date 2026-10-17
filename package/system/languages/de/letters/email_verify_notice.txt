@@ -1,0 +1,11 @@
+[subject:Benachrichtigung über die Änderung der E-Mail-Adresse - {site}]
+
+Hallo {nickname}.
+
+Sie haben Ihre E-Mail-Adresse erfolgreich in {new_email} geändert.
+Falls Sie diese Änderung nicht vorgenommen haben, wenden Sie sich bitte an den Administrator der Website.
+
+
+--
+ Mit freundlichen Grüßen, {site}
+ <small>Diese E-Mail wurde automatisch versendet. Bitte antworten Sie nicht darauf.</small>

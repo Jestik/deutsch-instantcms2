@@ -1,0 +1,13 @@
+[subject:Ihr Beitrag wurde abgelehnt - {site}]
+
+Hallo, {nickname}.
+
+Ein Moderator hat Ihren Beitrag nicht zur Veröffentlichung freigegeben.
+
+Titel: {page_title}
+
+Begründung: {reason}
+
+--
+ Mit freundlichen Grüßen, {site}
+ <small>Diese E-Mail wurde automatisch versendet. Bitte antworten Sie nicht darauf.</small>

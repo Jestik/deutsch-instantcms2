@@ -1,0 +1,27 @@
+<?php
+define('LANG_BS4_MENU_TYPE', 'Menütyp');
+define('LANG_BS4_MENU_TYPE_NAV', 'Standardmenü');
+define('LANG_BS4_MENU_TYPE_NAVBAR', 'Navigationsleiste');
+define('LANG_BS4_NAVBAR_EXPAND', 'Menü bei folgenden Bildschirmgrößen anzeigen');
+define('LANG_BS4_NAVBAR_EXPAND_ON', 'Bei den Bildschirmgrößen %s anzeigen');
+define('LANG_BS4_NAVBAR_COLOR_SCHEME', 'Farbschema des Bereichs, in dem sich das Menü befindet');
+define('LANG_BS4_NAVBAR_COLOR_SCHEME_D', 'Dunkel');
+define('LANG_BS4_NAVBAR_COLOR_SCHEME_L', 'Hell');
+define('LANG_BS4_SHOW_SEARCH_FORM', 'Suchformular anzeigen');
+define('LANG_BS4_SHOW_SEARCH_FORM_2', 'Nur anzeigen, wenn das Menü ausgeblendet ist');
+define('LANG_BS4_TOGGLER_ICON', 'Symbol zum Öffnen des ausgeblendeten Menüs anzeigen');
+define('LANG_BS4_TOGGLER_ICON_HINT', 'Wenn deaktiviert, können Sie das HTML-Symbol an einer anderen Stelle platzieren');
+define('LANG_BS4_TOGGLER_SHOW_SITENAME', 'Seitennamen anzeigen');
+define('LANG_BS4_TOGGLER_SHOW_LOGO', 'Logo anzeigen');
+define('LANG_BS4_TOGGLER_RIGHT_MENU', 'Menübereich rechtsbündig ausrichten');
+define('LANG_BS4_MENU_NAV_STYLE', 'Menüposition');
+define('LANG_BS4_MENU_NAV_STYLE_ADD', 'Menüposition bei anderen Bildschirmgrößen');
+define('LANG_BS4_MENU_NAV_STYLE_HL', 'Horizontal, linksbündig');
+define('LANG_BS4_MENU_NAV_STYLE_HC', 'Horizontal, zentriert');
+define('LANG_BS4_MENU_NAV_STYLE_HB', 'Horizontal, über die gesamte Breite');
+define('LANG_BS4_MENU_NAV_STYLE_HR', 'Horizontal, rechtsbündig');
+define('LANG_BS4_MENU_NAV_STYLE_V', 'Vertikal');
+define('LANG_BS4_MENU_IS_PILLS', 'Aktive Einträge als Schaltflächen anzeigen');
+define('LANG_BS4_MENU_IS_FILL', 'Die gesamte Containerbreite ausfüllen');
+define('LANG_BS4_MENU_IS_FILL_JUS', 'Gleich große Einträge');
+define('LANG_BS4_ALWAYS_SHOW', 'Immer anzeigen');

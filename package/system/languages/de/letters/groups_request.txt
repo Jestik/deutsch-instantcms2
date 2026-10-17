@@ -1,0 +1,11 @@
+[subject:{user_nickname} bittet um Aufnahme in die Gruppe - {site}]
+
+Hallo.
+
+<a href="{user_url}">{user_nickname}</a> bittet um Aufnahme in die Gruppe <a href="{group_url}">{group_title}</a>.
+
+Die Liste der Beitrittsanfragen ist über <a href="{requests_url}">diesen Link</a> erreichbar.
+
+--
+ Mit freundlichen Grüßen, {site}
+ <small>Diese E-Mail wurde automatisch versendet. Bitte antworten Sie nicht darauf.</small>
